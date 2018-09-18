@@ -1,0 +1,62 @@
+<!DOCTYPE html>
+<html lang="en">
+	<head>
+		<title>COMPUTER SCIENCE</title>
+		<style>
+			body {color: navy; background-color: lightblue;}
+			h1,h3 {color: green;}
+			ul,li {background-color: lightgreen;}
+			b {font-size: 2em;}
+		</style>
+	</head>
+	<body>
+	<!-- This is just a comment -->
+		<h1>Web Development</h1>
+		<h2>Here is a big section</h2>
+		<h3>C++ is the best</h3>
+		<h4>Java is not</h4>
+		<h5>Gasoil</h5>
+		<h6>CHCKING SIZE</h6>
+		<p>this is normal text
+		I am Number 1</p>
+		<p>Akh too <b>USA</b>,
+		ara what is this, very good are<br /> you <i>crazy</i> look at this </p>
+
+		<h3> My favorite Cars:</h3>
+			<ul>
+				<li>Mercedes Benz</li>
+				<li>BMW</li>
+				<li>Mclaren</li>
+				<li>Bentley</li>
+				<li>Ferrari</li>
+				<img src="ferrari.jpg" />
+			</ul>
+
+		<h3> My favorite Games:</h3>
+			<ol>
+				<li>FIFA</li>
+				<li>FAR CRY</li>
+				<li style="color: magenta;">GTA</li>       <!-- Adds megenta to GTA -->
+				<li style="color: yellow;">CALL OF DUTY</li>
+				<li>CIVILIZATION</li>
+			</ol>
+
+		<h3> Key Terms from this evening presentation:</h3>
+			<dl>
+				<dt>HTML</dt><dd>HyperText markup language</dd>
+				<dt>CSS</dt><dd>Cascading Style Sheet</dd>
+				<dt>XML</dt><dd>eXtensible Markup Language</dd>
+			</dl>
+	</body>
+	</html>
+
+
+
+<!-- h area header tags and are for size.
+<br /> is to break line and it doesnt need closing tag.
+<p> is for paraghraph and skips a line, it doesnt reqire closing tag
+<b> </b> is to make something bold
+<i> </i> is to italize something
+<ul><li></li></ul> givs us unordered list
+<ol><li></li></ol>
+<dl><dt></dt><dd></dd></dl> is for terms and defention -->
